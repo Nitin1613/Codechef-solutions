@@ -1,1 +1,1 @@
-# Codechef-solutions
+# Competitive coding
