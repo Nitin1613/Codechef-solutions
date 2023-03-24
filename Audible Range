@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int t;
+	cin >> t;
+	while(t--){
+	    int f;
+	    cin >> f;
+	    
+	    if(f>= 67 && f<=45000){
+	        cout << "YES" << endl;
+	    }
+	    else{
+	        cout << "NO" << endl;
+	    }
+	}
+	return 0;
+}
